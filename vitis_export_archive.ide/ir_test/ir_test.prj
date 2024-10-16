@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ir_test" location="C:/Users/dries/ir_sensor/ir_test" platform="C:/Users/dries/ir_sensor/ir_sensor/export/ir_sensor/ir_sensor.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="ir_test_system" sysConfig="ir_sensor" runtime="C/C++" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="bf0bbef9fff6ebea40a83d598454819b">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.990156430" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1136750885" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

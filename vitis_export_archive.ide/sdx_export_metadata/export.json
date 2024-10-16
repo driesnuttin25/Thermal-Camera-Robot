@@ -1,0 +1,29 @@
+{
+  "version": "2024.1",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "ir_sensor"
+    }
+  ],
+  "systems": [
+    {
+      "name": "ir_test_system",
+      "platform": "C:/Users/dries/ir_sensor/ir_sensor/export/ir_sensor/ir_sensor.xpfm",
+      "sysConfig": "ir_sensor",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "ir_test",
+          "platform": "C:/Users/dries/ir_sensor/ir_sensor/export/ir_sensor/ir_sensor.xpfm",
+          "platformPath": "C:\\Users\\dries\\ir_sensor\\ir_sensor\\export\\ir_sensor",
+          "sysConfig": "ir_sensor",
+          "domain": "standalone_ps7_cortexa9_0",
+          "system": "ir_test_system"
+        }
+      ],
+      "platformPath": "C:\\Users\\dries\\ir_sensor\\ir_sensor\\export\\ir_sensor"
+    }
+  ],
+  "others": []
+}
